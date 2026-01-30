@@ -4,8 +4,9 @@ age=209
 name="jidenna"
 surname="uche"
 
-# print(name + " " + surname)
+# print(name + " " + surname) this is used to concatenate using the "+" sign
 
 # template literal is used to print output with different data types
 
-print(f"my name is {name} {surname}. I am {age} years old.")
+
+print(f"my name is {name} {surname}. I am {age} years old.") #A curly bracket is used to decalre the variable in the print statement.
