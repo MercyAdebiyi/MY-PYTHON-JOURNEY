@@ -14,4 +14,11 @@ height= float(input("enter your height"))
 calculate= age*weight*height
 print(calculate)
 
+#declaring multiple variables in python
+
+sam1, sam2, sam3= "ola", "oladimeji", "oladejo"
+
+print(f"My names are {sam1} {sam2} and {sam3})
+
 # debugging is used to find errors in code and to understand the thinking process of the computer. This is accessed by using the deugger and setting a break point (a small red dot on the side)
+
